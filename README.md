@@ -1,4 +1,5 @@
 AngularJS
 =========
 
-basic examples 
+
+basic examples on Angularjs
